@@ -3,3 +3,6 @@ git add .
 git commit -m "Initial commit"
 git remote add origin https://github.com/yvesauro/mustangio.git
 git push -u origin master
+npx create-react-app mustangio
+cd mustangio
+
